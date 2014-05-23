@@ -1,9 +1,9 @@
 OnlyNumber.js
-=============
+===
 
 This is a small pluggin for make a HTML input with only numbers allowed on that input.
 
-Easy to use:
+**Easy to use:**
 
 ```
 <!DOCTYPE html>
@@ -38,12 +38,12 @@ Easy to use:
 
 
 
-Conclusion: 
+** Conclusion: **
 
 The sintaxy is easy:
-onlyNumber($('#ID_Input'), $('#ID_Input'), $(ID_Input), ..);
+*onlyNumber($('#ID_Input'), $('#ID_Input'), $(ID_Input), ..);*
 
-Hope you understand is very easy.
+Hope you understand, is very easy.
 
 If you need more help or something, contact me at: 
 
