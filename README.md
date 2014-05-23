@@ -5,7 +5,11 @@ This is a small pluggin for make a HTML input with only numbers allowed on that 
 
 Easy to use:
 
-#+BEGIN_EXAMPLE
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -34,8 +38,6 @@ Easy to use:
 </script>
 </body>
 </html>
-#+END_EXAMPLE
-
 
 Conclusion: 
 
