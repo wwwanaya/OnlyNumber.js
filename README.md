@@ -40,8 +40,8 @@ Hope you understand, is very easy.
 
 If you need more help or something, contact me at: 
 
-*Kevin Anaya
-*email: [www.anaya@gmail.com](mailto:www.anaya@gmail.com)
-*skype: [www.anaya](skype:www.anaya?add)
-*Google+: [+KevinAnaya](https://plus.google.com/+KevinAnaya/)
+* Kevin Anaya
+* email: [www.anaya@gmail.com](mailto:www.anaya@gmail.com)
+* Skype: [www.anaya](skype:www.anaya?add)
+* Google+: [+KevinAnaya](https://plus.google.com/+KevinAnaya/)
 
