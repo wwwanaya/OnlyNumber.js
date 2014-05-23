@@ -6,10 +6,6 @@ This is a small pluggin for make a HTML input with only numbers allowed on that 
 Easy to use:
 
 ```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -38,6 +34,9 @@ But let's throw in a <b>tag</b>.
 </script>
 </body>
 </html>
+```
+
+
 
 Conclusion: 
 
