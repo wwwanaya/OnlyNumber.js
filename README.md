@@ -37,7 +37,7 @@ Easy to use:
 
 
 
-** Conclusion: **
+**Conclusion:**
 
 The sintaxy is easy:
 ```
