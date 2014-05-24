@@ -1,12 +1,18 @@
 OnlyNumber.js
 ===
 
-This is a small pluggin for make a HTML input with only numbers allowed on that input.
+This is a small jQuery plugin for make a HTML input with only numbers allowed on that input.
 
-**Easy to use:**
+I did this small jQuery plugin, while I was working in a small project and I use it for other one today. So may someone need it to save time like me... So, there it is. Hope this it helpful for you too.
+
+Easy to use:
+
+**First Download it: [Right click here and click on "Save link as..."](//github.com/wwwanaya/OnlyNumber.js/blob/master/onlynumber.min.js)**
+
+**Then, here is an example how to use it:**
 
 ```
-<!-- Here we create 2 inputs, type number, so these will be affected by the plugin-->
+<!-- Here we create 2 inputs, type number, so these will be affected by the plugin -->
 	<label for="num1">Number 1</label>
 	<input id="num1" type="number">
 	<label for="num2">Number 1</label>
@@ -25,6 +31,7 @@ This is a small pluggin for make a HTML input with only numbers allowed on that 
 	  // Here we past the input ID for make it a input with only numbers allowed.
 		onlyNumber($('#num1'), $('#num2'));
 	});
+	// That's all, there you go.
 </script>
 ```
 
@@ -34,7 +41,7 @@ This is a small pluggin for make a HTML input with only numbers allowed on that 
 
 The sintaxy is easy:
 ```
-onlyNumber($('#ID_Input'), $('#ID_Input'), $(ID_Input), ..);
+onlyNumber($('#ID_Input'), $('#ID_Input'), $(ID_Input), ...);
 ```
 Hope you understand, is very easy.
 
