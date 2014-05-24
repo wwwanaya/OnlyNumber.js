@@ -42,6 +42,6 @@ If you need more help or something, contact me at:
 
 * Kevin Anaya
 * E-mail: [www.anaya@gmail.com](mailto:www.anaya@gmail.com)
-* Skype: www.anaya
+* Skype: [www.anaya](skype:www.anaya?userinfo)
 * Google+: [+KevinAnaya](https://plus.google.com/+KevinAnaya/)
 
